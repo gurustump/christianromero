@@ -1,0 +1,34 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Tablet Portrait
+
+******************************************************************/
+.wrap {
+  width: 1000px;
+}
+
+
+/*********************
+PAGE SPECIFIC STYLES
+*********************/
+body.home {
+	.nav {
+		margin-right:-20px;
+	}
+}
+body.page-template-page-custom-gallery {
+	.gallery-container {
+		.gallery-thumbs {
+			float:left;
+			width:189px;
+			margin-right:11px;
+		}
+		.gallery-display {
+			float:left;
+			width:800px;
+			height:533px;
+		}
+	}
+}
