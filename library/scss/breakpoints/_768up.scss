@@ -76,7 +76,8 @@ NAVIGATION STYLES
 			you can use hover styles here even though this size
 			has the possibility of being a mobile device.
 			*/
-			&:hover, &:focus {
+			&:hover {
+				color:#333;
 			}
 		}
 

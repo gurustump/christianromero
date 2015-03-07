@@ -324,6 +324,9 @@ NAVIGATION STYLES
   has the possibility of being a mobile device.
   */
 }
+.nav li a:hover {
+  color: #333;
+}
 .nav li ul.sub-menu,
 .nav li ul.children {
   margin-top: 0;
